@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is part of the DSAP lab, where three lab experiments were conducted to explore various aspects of digital signal processing using MATLAB. Each lab focuses on a different objective, ranging from familiarizing with basic plotting techniques to analyzing discrete-time signals and performing signal operations like convolution and autocorrelation.
+This project is part of the DSAP lab, where four lab experiments were conducted to explore various aspects of digital signal processing using MATLAB. Each lab focuses on a different objective, ranging from familiarizing with basic plotting techniques to analyzing discrete-time signals and performing signal operations like convolution, autocorrelation, and Fourier transforms.
 
 ## Lab Objectives
 
@@ -23,6 +23,12 @@ This project is part of the DSAP lab, where three lab experiments were conducted
 - **Files**:
   - `lab3/lab3.m`: MATLAB script for Lab 3.
   - `lab3/lab3.jpg`: Plot generated from Lab 3.
+
+### Lab 4: Discrete Fourier Transform (DFT)
+- **Objective**: To implement the DFT algorithm and analyze the transformation of a sinewave from the time domain to the frequency domain and back.
+- **Files**:
+  - `lab4/lab4.m`: MATLAB script for Lab 4.
+  - `lab4/lab4.jpg`: Plot generated from Lab 4.
 
 ## Installation
 
